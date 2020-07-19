@@ -1,0 +1,1 @@
+-m uberdeps.uberjar --target target/shout-0.1.jar

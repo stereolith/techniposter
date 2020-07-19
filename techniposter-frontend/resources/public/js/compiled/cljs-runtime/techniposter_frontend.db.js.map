@@ -1,0 +1,1 @@
+{"version":3,"sources":["techniposter_frontend/db.cljs"],"mappings":";AAEA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAKA","names":["techniposter-frontend.db/default-db"],"sourcesContent":["(ns techniposter-frontend.db)\n\n(def default-db\n  {:name \"re-frame\"\n   :loading? true\n   :page 0\n   :size 8\n   :movie-detail nil})\n"]}
